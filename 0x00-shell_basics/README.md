@@ -1,1 +1,1 @@
-Script to create a file that lists all files and directories of the current directory separated by commas, end with slash, starting with dot
+Script to create a magic file that can be use with the command file
