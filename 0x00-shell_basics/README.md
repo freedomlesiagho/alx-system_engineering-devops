@@ -1,1 +1,1 @@
-A script to display current directory contents, including hidden files starting with {.} using long format
+a script to display current dirctory contents in long formtat with group IDs displayed numerically with hidden files 
