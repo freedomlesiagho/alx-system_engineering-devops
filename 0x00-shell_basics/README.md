@@ -1,1 +1,1 @@
-Script to move all files beginning with upper case to /tmp/u
+Script to delete all files starting with ~ in the current working directory
