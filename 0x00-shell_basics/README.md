@@ -1,1 +1,1 @@
-Script to delete all files starting with ~ in the current working directory
+Script to create multiple directory in a parent directory
