@@ -1,1 +1,1 @@
-A script to change directory to users home directory
+A script to display current directory contents in long format
