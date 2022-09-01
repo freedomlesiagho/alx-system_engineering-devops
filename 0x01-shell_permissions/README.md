@@ -1,1 +1,1 @@
-A script that changes the owner to vincent and the group owner to staff for all files and directories in current working directory
+A script that changes the owner and group owner to of _hello to vincent and staff respectively
