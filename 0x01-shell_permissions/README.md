@@ -1,1 +1,1 @@
-A script to add all permission to other users and known to owner and group
+A script to give all permission to owner, read and execute to group owners and write and execute to others
