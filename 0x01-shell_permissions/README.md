@@ -1,1 +1,1 @@
-A script to give all permission to owner, read and execute to group owners and write and execute to others
+A script that sets the mode of hello file same as olleh's mode
